@@ -72,3 +72,11 @@ tablolarda gösterilecektir.
 %50 kod, %30 doküman ve testler, %20 video anlatımı...
 ```
 
+# İçerik
+
+![Socket Programming_Sayfa_1](https://user-images.githubusercontent.com/50529546/124367933-9041be00-dc64-11eb-83c1-8401a1589efe.jpg)
+![Socket Programming_Sayfa_2](https://user-images.githubusercontent.com/50529546/124367934-9172eb00-dc64-11eb-9b8d-625009f8aee6.jpg)
+
+# İçerik PDF Dosyası
+
+[Socket Programming.pdf](https://github.com/bhrcfth42/Socket-Programming/files/6759096/Bilgisayar.Aglari.Proje.pdf)
