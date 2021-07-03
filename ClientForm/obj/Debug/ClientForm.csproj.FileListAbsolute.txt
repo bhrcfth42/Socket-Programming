@@ -1,0 +1,10 @@
+C:\Users\fatih\source\repos\SocketProgram\ClientForm\bin\Debug\ClientForm.exe.config
+C:\Users\fatih\source\repos\SocketProgram\ClientForm\bin\Debug\ClientForm.exe
+C:\Users\fatih\source\repos\SocketProgram\ClientForm\bin\Debug\ClientForm.pdb
+C:\Users\fatih\source\repos\SocketProgram\ClientForm\obj\Debug\ClientForm.csprojAssemblyReference.cache
+C:\Users\fatih\source\repos\SocketProgram\ClientForm\obj\Debug\ClientForm.Form1.resources
+C:\Users\fatih\source\repos\SocketProgram\ClientForm\obj\Debug\ClientForm.Properties.Resources.resources
+C:\Users\fatih\source\repos\SocketProgram\ClientForm\obj\Debug\ClientForm.csproj.GenerateResource.cache
+C:\Users\fatih\source\repos\SocketProgram\ClientForm\obj\Debug\ClientForm.csproj.CoreCompileInputs.cache
+C:\Users\fatih\source\repos\SocketProgram\ClientForm\obj\Debug\ClientForm.exe
+C:\Users\fatih\source\repos\SocketProgram\ClientForm\obj\Debug\ClientForm.pdb

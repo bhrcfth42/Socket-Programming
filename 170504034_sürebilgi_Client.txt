@@ -1,0 +1,19 @@
+İşlem Türü=Toplama	Gönderilen Değer=12	Gönderilme zamanı=2020-05-14 23:46:56.465	Cevabın Verilme Süresi=2020-05-14 23:46:56.466	Süre Farkı=00:00:00.0010012
+İşlem Türü=Toplama	Gönderilen Değer=99	Gönderilme zamanı=2020-05-14 23:47:04.726	Cevabın Verilme Süresi=2020-05-14 23:47:04.727	Süre Farkı=00:00:00.0009983
+İşlem Türü=Toplama	Gönderilen Değer=943573	Gönderilme zamanı=2020-05-14 23:47:13.531	Cevabın Verilme Süresi=2020-05-14 23:47:13.532	Süre Farkı=00:00:00.0009951
+İşlem Türü=Faktöriyel	Gönderilen Değer=2	Gönderilme zamanı=2020-05-14 23:47:21.143	Cevabın Verilme Süresi=2020-05-14 23:47:21.144	Süre Farkı=00:00:00.0010249
+İşlem Türü=Faktöriyel	Gönderilen Değer=4	Gönderilme zamanı=2020-05-14 23:47:24.143	Cevabın Verilme Süresi=2020-05-14 23:47:24.144	Süre Farkı=00:00:00.0010197
+İşlem Türü=Faktöriyel	Gönderilen Değer=8	Gönderilme zamanı=2020-05-14 23:47:26.187	Cevabın Verilme Süresi=2020-05-14 23:47:26.188	Süre Farkı=00:00:00.0010188
+İşlem Türü=Faktöriyel	Gönderilen Değer=7	Gönderilme zamanı=2020-05-14 23:47:29.555	Cevabın Verilme Süresi=2020-05-14 23:47:29.558	Süre Farkı=00:00:00.0029821
+
+İşlem Türü=Toplama	Gönderilen Değer=12	Gönderilme zamanı=2020-05-16 22:19:07.604	Cevabın Verilme Süresi=2020-05-16 22:19:07.607	Süre Farkı=00:00:00.0029590
+İşlem Türü=Faktöriyel	Gönderilen Değer=5	Gönderilme zamanı=2020-05-16 22:19:32.075	Cevabın Verilme Süresi=2020-05-16 22:19:32.078	Süre Farkı=00:00:00.0030369
+İşlem Türü=Toplama	Gönderilen Değer=12	Gönderilme zamanı=2020-05-17 00:57:11.640	Cevabın Verilme Süresi=2020-05-17 00:57:11.643	Süre Farkı=00:00:00.0029893
+İşlem Türü=Faktöriyel	Gönderilen Değer=5	Gönderilme zamanı=2020-05-17 00:57:31.374	Cevabın Verilme Süresi=2020-05-17 00:57:31.379	Süre Farkı=00:00:00.0049860
+İşlem Türü=Toplama	Gönderilen Değer=12	Gönderilme zamanı=2020-05-17 01:01:01.032	Cevabın Verilme Süresi=2020-05-17 01:01:01.033	Süre Farkı=00:00:00.0009707
+İşlem Türü=Toplama	Gönderilen Değer=99	Gönderilme zamanı=2020-05-17 01:01:07.695	Cevabın Verilme Süresi=2020-05-17 01:01:07.697	Süre Farkı=00:00:00.0019941
+İşlem Türü=Faktöriyel	Gönderilen Değer=5	Gönderilme zamanı=2020-05-17 01:01:17.707	Cevabın Verilme Süresi=2020-05-17 01:01:17.709	Süre Farkı=00:00:00.0019582
+İşlem Türü=Toplama	Gönderilen Değer=999	Gönderilme zamanı=2020-05-17 01:01:28.425	Cevabın Verilme Süresi=2020-05-17 01:01:28.426	Süre Farkı=00:00:00.0005587
+İşlem Türü=Faktöriyel	Gönderilen Değer=12	Gönderilme zamanı=2020-05-17 01:01:40.315	Cevabın Verilme Süresi=2020-05-17 01:01:40.316	Süre Farkı=00:00:00.0009972
+İşlem Türü=Faktöriyel	Gönderilen Değer=20	Gönderilme zamanı=2020-05-17 01:01:44.826	Cevabın Verilme Süresi=2020-05-17 01:01:44.827	Süre Farkı=00:00:00.0009982
+İşlem Türü=Faktöriyel	Gönderilen Değer=66	Gönderilme zamanı=2020-05-17 01:01:49.091	Cevabın Verilme Süresi=2020-05-17 01:01:49.092	Süre Farkı=00:00:00.0009974

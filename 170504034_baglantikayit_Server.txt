@@ -1,0 +1,19 @@
+Host Adı=DESKTOP-DH7AGKP	Ipv4 Adres=192.168.1.10	Ipv6 Adres=fe80::3964:172:a8df:793%12	Sistem Saati=2020-05-14 23:46:56.464	Kullanıcının Yapmak İstediği işlem türü= Toplama Hesaplama	Kullanıcı Gönderdiği değer=12
+Host Adı=DESKTOP-DH7AGKP	Ipv4 Adres=192.168.1.10	Ipv6 Adres=fe80::3964:172:a8df:793%12	Sistem Saati=2020-05-14 23:47:04.726	Kullanıcının Yapmak İstediği işlem türü= Toplama Hesaplama	Kullanıcı Gönderdiği değer=99
+Host Adı=DESKTOP-DH7AGKP	Ipv4 Adres=192.168.1.10	Ipv6 Adres=fe80::3964:172:a8df:793%12	Sistem Saati=2020-05-14 23:47:13.531	Kullanıcının Yapmak İstediği işlem türü= Toplama Hesaplama	Kullanıcı Gönderdiği değer=943573
+Host Adı=DESKTOP-DH7AGKP	Ipv4 Adres=192.168.1.10	Ipv6 Adres=fe80::3964:172:a8df:793%12	Sistem Saati=2020-05-14 23:47:21.143	Kullanıcının Yapmak İstediği işlem türü= Faktöriyel Hesaplama	Kullanıcı Gönderdiği değer=2
+Host Adı=DESKTOP-DH7AGKP	Ipv4 Adres=192.168.1.10	Ipv6 Adres=fe80::3964:172:a8df:793%12	Sistem Saati=2020-05-14 23:47:24.143	Kullanıcının Yapmak İstediği işlem türü= Faktöriyel Hesaplama	Kullanıcı Gönderdiği değer=4
+Host Adı=DESKTOP-DH7AGKP	Ipv4 Adres=192.168.1.10	Ipv6 Adres=fe80::3964:172:a8df:793%12	Sistem Saati=2020-05-14 23:47:26.187	Kullanıcının Yapmak İstediği işlem türü= Faktöriyel Hesaplama	Kullanıcı Gönderdiği değer=8
+Host Adı=DESKTOP-DH7AGKP	Ipv4 Adres=192.168.1.10	Ipv6 Adres=fe80::3964:172:a8df:793%12	Sistem Saati=2020-05-14 23:47:29.555	Kullanıcının Yapmak İstediği işlem türü= Faktöriyel Hesaplama	Kullanıcı Gönderdiği değer=7
+
+Host Adı=DESKTOP-DH7AGKP	Ipv4 Adres=192.168.1.10	Ipv6 Adres=fe80::3964:172:a8df:793%12	Sistem Saati=2020-05-16 22:19:07.610	Kullanıcının Yapmak İstediği işlem türü= Toplama Hesaplama	Kullanıcı Gönderdiği değer=12
+Host Adı=DESKTOP-DH7AGKP	Ipv4 Adres=192.168.1.10	Ipv6 Adres=fe80::3964:172:a8df:793%12	Sistem Saati=2020-05-16 22:19:32.076	Kullanıcının Yapmak İstediği işlem türü= Faktöriyel Hesaplama	Kullanıcı Gönderdiği değer=5
+Host Adı=DESKTOP-DH7AGKP	Ipv4 Adres=192.168.1.10	Ipv6 Adres=fe80::3964:172:a8df:793%12	Sistem Saati=2020-05-17 00:57:11.641	Kullanıcının Yapmak İstediği işlem türü= Toplama Hesaplama	Kullanıcı Gönderdiği değer=12
+Host Adı=DESKTOP-DH7AGKP	Ipv4 Adres=192.168.1.10	Ipv6 Adres=fe80::3964:172:a8df:793%12	Sistem Saati=2020-05-17 00:57:31.376	Kullanıcının Yapmak İstediği işlem türü= Faktöriyel Hesaplama	Kullanıcı Gönderdiği değer=5
+Host Adı=DESKTOP-DH7AGKP	Ipv4 Adres=192.168.1.10	Ipv6 Adres=fe80::3964:172:a8df:793%12	Sistem Saati=2020-05-17 01:01:01.032	Kullanıcının Yapmak İstediği işlem türü= Toplama Hesaplama	Kullanıcı Gönderdiği değer=12
+Host Adı=DESKTOP-DH7AGKP	Ipv4 Adres=192.168.1.10	Ipv6 Adres=fe80::3964:172:a8df:793%12	Sistem Saati=2020-05-17 01:01:07.696	Kullanıcının Yapmak İstediği işlem türü= Toplama Hesaplama	Kullanıcı Gönderdiği değer=99
+Host Adı=DESKTOP-DH7AGKP	Ipv4 Adres=192.168.1.10	Ipv6 Adres=fe80::3964:172:a8df:793%12	Sistem Saati=2020-05-17 01:01:17.708	Kullanıcının Yapmak İstediği işlem türü= Faktöriyel Hesaplama	Kullanıcı Gönderdiği değer=5
+Host Adı=DESKTOP-DH7AGKP	Ipv4 Adres=192.168.1.10	Ipv6 Adres=fe80::3964:172:a8df:793%12	Sistem Saati=2020-05-17 01:01:28.425	Kullanıcının Yapmak İstediği işlem türü= Toplama Hesaplama	Kullanıcı Gönderdiği değer=999
+Host Adı=DESKTOP-DH7AGKP	Ipv4 Adres=192.168.1.10	Ipv6 Adres=fe80::3964:172:a8df:793%12	Sistem Saati=2020-05-17 01:01:40.315	Kullanıcının Yapmak İstediği işlem türü= Faktöriyel Hesaplama	Kullanıcı Gönderdiği değer=12
+Host Adı=DESKTOP-DH7AGKP	Ipv4 Adres=192.168.1.10	Ipv6 Adres=fe80::3964:172:a8df:793%12	Sistem Saati=2020-05-17 01:01:44.827	Kullanıcının Yapmak İstediği işlem türü= Faktöriyel Hesaplama	Kullanıcı Gönderdiği değer=20
+Host Adı=DESKTOP-DH7AGKP	Ipv4 Adres=192.168.1.10	Ipv6 Adres=fe80::3964:172:a8df:793%12	Sistem Saati=2020-05-17 01:01:49.091	Kullanıcının Yapmak İstediği işlem türü= Faktöriyel Hesaplama	Kullanıcı Gönderdiği değer=66
